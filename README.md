@@ -1,4 +1,4 @@
-[![Node.js CI](https://github.com/cds-amal/starter-node/actions/workflows/node.js.yml/badge.svg)](https://github.com/cds-amal/starter-node/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/cds-amal/starter-node/actions/workflows/node.js.yml/badge.svg)](https://github.com/cds-amal/starter-node/actions/workflows/node.js.yml) [![Windows CI](https://github.com/cds-amal/starter-node/actions/workflows/windows.yml/badge.svg)](https://github.com/cds-amal/starter-node/actions/workflows/windows.yml)
 
 # Sample project
 
