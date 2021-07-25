@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --grep @win -i src/test/*.test.js",
+    "test:win": "mocha --grep @win src/test/*.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  }
+}
